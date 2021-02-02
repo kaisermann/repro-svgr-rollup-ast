@@ -1,0 +1,24 @@
+{
+  "name": "repro-svgr-rollup-ast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaisermann/repro-svgr-rollup-ast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaisermann/repro-svgr-rollup-ast/issues"
+  },
+  "homepage": "https://github.com/kaisermann/repro-svgr-rollup-ast#readme",
+  "devDependencies": {
+    "@svgr/rollup": "^5.5.0",
+    "rollup": "^2.38.4"
+  }
+}
